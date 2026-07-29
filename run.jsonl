@@ -1,0 +1,7 @@
+{"type": "incoming", "chat_id": 8434290377, "text": "What is 15% of 200", "timestamp": 1785305524.7501261}
+{"type": "incoming", "chat_id": 8434290377, "text": "Hii", "timestamp": 1785305953.3070285}
+{"type": "outgoing", "chat_id": 8434290377, "text": "{\"message\": \"Hii\", \"log_url\": \"PASTE_YOUR_PUBLIC_LOG_URL_HERE\"}", "timestamp": 1785305959.938688}
+{"type": "incoming", "chat_id": 8434290377, "text": "Hello", "timestamp": 1785305960.7199714}
+{"type": "outgoing", "chat_id": 8434290377, "text": "{\"message\": \"Hello\", \"log_url\": \"PASTE_YOUR_PUBLIC_LOG_URL_HERE\"}", "timestamp": 1785305963.8608768}
+{"type": "incoming", "chat_id": 8434290377, "text": "What is 15% of 200", "timestamp": 1785305976.3298533}
+{"type": "outgoing", "chat_id": 8434290377, "text": "{\"message\": \"30\", \"log_url\": \"PASTE_YOUR_PUBLIC_LOG_URL_HERE\"}", "timestamp": 1785305981.975701}
